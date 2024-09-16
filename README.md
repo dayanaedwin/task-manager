@@ -5,16 +5,16 @@ The Task Manager Application is a simple and intuitive web application built usi
 
 
 ## Key Features
- * Task Management:
+ 1. Task Management:
     - Add new tasks with a title.
     - Edit existing tasks.
     - Delete tasks as needed.
     - Toggle the completion status of tasks with a checkbox.
- * Task Filtering:
+ 2. Task Filtering:
     - Filter tasks based on their completion status (all, completed, incomplete).
- * Persistence:
+ 3. Persistence:
     - Tasks are saved to and loaded from local storage, ensuring that the tasks remain available across page reloads or browser restarts.
- * Responsive Design:
+ 4. Responsive Design:
     - The application uses Tailwind CSS for styling, providing a clean, responsive, and modern design.
 
 
