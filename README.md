@@ -21,7 +21,7 @@ The Task Manager Application is a simple and intuitive web application built usi
 ## Project Setup
 
 ### 1. Clone the project
-`https://github.com/dayanaedwin/task-manager.git`
+`git clone https://github.com/dayanaedwin/task-manager.git`
 
 ### 2. Navigate to the project directory
 `cd task-manager`
