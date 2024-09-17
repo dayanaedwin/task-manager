@@ -9,6 +9,7 @@ export const AddTaskForm = () => {
     const dispatch: AppDispatch = useDispatch();
 
     const handleSubmit = (e: React.FormEvent) => {
+        e.preventDefault()
         if (title.trim()) {
             dispatch(addTask(title));
             setTitle('');
